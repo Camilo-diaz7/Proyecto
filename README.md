@@ -1,2 +1,2 @@
-#Zapateria Sarmiento
-#Venta de tenis y zapatos  deportivos
+#Zapateria Sarmiento;
+Venta de tenis y zapatos  deportivos
